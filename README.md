@@ -2,7 +2,7 @@
 
 ## HOW TO USE
     sudo apt install git
-    git clone https://github.com/Tecosse/store-data-without-db-nodejs-/
+    git clone https://github.com/Tecosse/store-data-without-db-nodejs.git
     cd ./store-data-without-database/
     node ./server.js
 > You can then send HTTP requests to the server to store and retrieve data. For example, you can use the following curl command to send a POST request with some data:
